@@ -8,8 +8,7 @@ name: CI
   push:
     branches:
       - development
-  schedule:
-    - cron: "0 4 * * 4"
+
 
 defaults:
   run:
